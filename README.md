@@ -10,7 +10,7 @@ The project is called **Points**, you can learn more about it at https://github.
 
 This is a screenshot of the page you'll be working on:
 
-Add screenshot here...
+![Points "projects" page screenshot](images/points-screenshot.png?raw=true)
 
 ## Task
 
