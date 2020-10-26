@@ -16,7 +16,7 @@ This is a screenshot of the page you'll be working on:
 
 We would like you to make some design changes to the `/projects` page (the screenshot above). Currently, the page has some issues with spacing and it isn’t easily organized. It also uses some old css techniques that could be improved and it doesn't look right in narrow devices.
 
-We would also like to add our brand somewhere with the label `Powered by OmbuLabs`, you can find some images at `/images`.
+We would also like to add our brand somewhere (maybe a `Powered by OmbuLabs` label? you can find some images at `/images`).
 
 Get creative, how would you change this page to be more easily understood and interacted with? 
 
