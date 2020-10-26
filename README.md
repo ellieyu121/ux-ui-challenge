@@ -34,7 +34,7 @@ Get creative, how would you change this page to be more easily understood and in
 
 * The head tag also includes FontAwesome library if you want to add some icons.
 
-* At `/images` you have some images if you need to use the for something.
+* At `/images` you have some images if you need to use them for something.
 
 ## How to submit the challenge
 
