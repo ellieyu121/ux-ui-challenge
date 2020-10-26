@@ -6,7 +6,7 @@ To get a better idea of your design and implementation skills we would like you 
 
 ## Introduction
 
-The project is called **Points**, you can learn more about it at https://github.com/fastruby/points/tree/designer-challenge if you are interested (but it's not required for this challenge).
+The project is called **Points**, you can learn more about it at https://fastruby.github.io/points/ if you are interested (but it's not required for this challenge).
 
 This is a screenshot of the page you'll be working on:
 
