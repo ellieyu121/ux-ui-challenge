@@ -1,3 +1,15 @@
+### Ellie's Notes
+
+Thank you so much for this opportunity once again! 
+
+For this design challenge, I started out with wireframing which allows me to quickly reorganize components and choose the optimized one. In terms of some key design changes, the first one is to integrate Bootstrap to achieve a better responsive design for narrow devices. Another change is to make sure equal spacing and enough padding between components for a more clean and organized layout. The text is also now wrapped in the card deck, and the OmbuLabs brand and logo is presented in the footer. To make the page more easily understood and interacted with, I moved the buttons such as "Add a Project" and "View Reports" to the top right because the user may have trouble finding their action items once there are more projects on the page. In addition, I integrated a filter dropdown for the user to select projects quickly based on their preferences and needs, as well as a progress bar to easily track the project status. A welcoming message at the top also provides a personalized tone. Overall, the Project page is more consistent, intuitive, and visually appealing compared to the initial version. 
+
+In total, I spent 4 hours on this design challenge. Please see the changes made in the files and let me know if there is any question. 
+
+Thank you,
+Ellie
+
+
 ### Hello!
 
 We are excited to see what you can do.
