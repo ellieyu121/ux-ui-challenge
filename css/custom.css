@@ -2,6 +2,7 @@ nav {
   background: black;
   color: white;
   padding: 15px;
+  margin: 0;
 }
 
 nav .brand {
@@ -18,23 +19,24 @@ nav a {
   padding: 3px 17px;
 }
 
-h2 {
-  text-align: left;
-}
-
 .content {
+  min-height: 100vh;
   max-width: 1024px;
   margin: 0 auto;
+  position: relative;
+  padding-bottom: 100px;
 }
 
 li {
   display: inline-block;
   width: 27%;
-  border: 1px solid #FFCC00;
+  border: 5px solid #FFCC00;
   padding: 20px;
-  font-size: 2rem;
+  font-size: 1rem;
   vertical-align: top;
   margin: 10px 1%;
+  text-align: center;
+  white-space: nowrap;
 }
 
 ul {
@@ -45,6 +47,51 @@ ul:after {
   clear: both;
 }
 
-.actions {
+.col-md {
   text-align: center;
+}
+
+h2 {
+    color: #F70A7C;
+    text-align: left; 
+     font-family: "Open Sans"; 
+     font-size: 31px;
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 700; 
+}
+
+h3 {
+     text-align: left; 
+     font-family: "Open Sans"; 
+     font-size: 23pt; 
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 700; 
+}
+
+h4 {
+    text-align: left; 
+    font-family: "Open Sans"; 
+    font-size: 23pt; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+}
+
+.col {
+    position: relative;
+}
+
+
+p{
+  font-family: "Open Sans"; 
+  font-size: 1.17rem;
+  font-weight: 400;
+  line-height: 2;
+}
+
+footer .text-center {
+  font-weight: bold;
+  font-size: 1.2em;
 }
